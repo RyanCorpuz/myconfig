@@ -1,0 +1,2 @@
+bin/secret
+.config/nvim/plugged/*
