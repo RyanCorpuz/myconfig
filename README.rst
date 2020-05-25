@@ -1,9 +1,6 @@
 myconfig
 ========
 
-gitproj
-=======
-
 :Author:	Ryan Corpuz
 :Source:	https://github.com/RyanCorpuz/myconfig
 :Version: 
