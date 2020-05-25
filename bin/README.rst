@@ -1,10 +1,13 @@
 Set up secret file
-========
+==================
 
 :Author:	Ryan Corpuz
 :Source:	https://github.com/RyanCorpuz/myconfig
-:Version: 
+:Version:       1
 
+
+Insert this:
+^^^^^^^^^^^^
    ::
 
          GIT_USERNAME=RyanCorpuz
