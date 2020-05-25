@@ -21,7 +21,7 @@ proj_path=.
 
 # checks for input variable
 if [ -z $1 ]; then
-	echo "gitproj: missing operand"
+	echo "$package: missing operand"
 	exit 1
 fi
 
