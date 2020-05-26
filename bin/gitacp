@@ -3,16 +3,13 @@
 # ------------------------------------------------
 # [Ryan Corpuz]	
 # NAME
-#		gitproj	-	Create github repo with current name
+#		gitacp	-	Quick script that adds, commits, and pushes current changes to repo
 #
 # SYNOPSIS
-#		gitproj	[OPTION] [PROJECT NAME]
+#		gitacp	[COMMIT MESSAGE]
 #
 # DESCRIPTION
-#		Creates github repo of specified name
-#
-#		-p
-#			creates a private github repo
+#		Simple adds commits and pushes everything into repo		
 # ------------------------------------------------
 
 package=gitacp
