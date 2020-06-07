@@ -1,0 +1,5 @@
+= PROJECT IDEAS =
+
+	* [X] Git scripts
+	* [ ] [[Personal Website]]
+	* [ ] Add blog to website

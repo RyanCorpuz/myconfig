@@ -1,3 +1,19 @@
-= My Knowledge Base =
-	* [[Tasks]] -- things to be done _yesterday_!!!
-	* Project Gutenburg
+= WELCOME =
+
+== GENERAL ==
+
+	* [[Tasks|List of Tasks]]
+
+== PROJECTS ==
+
+	* [[Project Ideas]]
+
+== NOTES ==
+
+	* [[Book Notes]]
+	* [[Fitness]]
+	* [[Tips and Tricks]]
+
+== LISTS ==
+
+	* [[Books to Read]]
