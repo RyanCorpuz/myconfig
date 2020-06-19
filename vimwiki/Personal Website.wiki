@@ -8,6 +8,6 @@ The goal is to create a platform where I can show myself and my abilities off. T
 
 == Technologies ==
 
-The goal here is to use Vue.js for frontend and golang for backend. And implement with heroku.
+The goal here is to use Vue.js for frontend and Nodejs for backend. And implement with heroku.
 
 

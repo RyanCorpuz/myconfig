@@ -2,4 +2,5 @@
 
 	* [X] Git scripts
 	* [ ] [[Personal Website]]
+	* [ ] Local ToDo list in machine, write in C++
 	* [ ] Add blog to website

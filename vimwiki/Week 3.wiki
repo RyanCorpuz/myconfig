@@ -1,0 +1,43 @@
+= WEEK 2 =
+DATE: FRI 06/12/2020
+
+Classification examples:
+	- Email: Spam/Not Spam?
+	- Online Transactions: Fraudulent(Yes/No)?
+	- Tumor: Malignant/Benign?
+
+Cannot use linear regression...use Logistic Regression (Sigmoid regression)
+Line between y=1 and y=0 is called Decision boundary
+Theta = parameters
+x = training set
+
+Gradient descent (vectorized):
+	theta:=theta-alpha/m*X'*(g(X*theta)-y)
+	
+Optimization algorithms:
+- Gradient descent
+- Conjugate gradient
+- BFGS
+- L-BFGS
+	(For bottom 3 algorithms)
+	Advantages:
+	- No need to manually pick alpha
+	- Often faster than gradient descent
+	Disadvantage:
+	- More complex
+	Note: Don't write your own algorithm unless you are an expert in numerical computing, use the built-in functions or libraries (octave has em)
+	
+fminunc - unc = unconstrained
+
+Solving the Problem of Overfitting
+	Overfitting: If we have too many features, the learned hypothesis may fit the training set very well, but fail to generalize to new examples
+	Addressing overfitting options:
+		1. Reduce number of features
+			- Manually select which features to keep
+			- Model selection algorithm (later in course)
+		2. Regularization
+			- Keep all the features, but reduce magnitude/values of parameters theta
+			- Works well when we have a lot of features, each of which contributes a bit to predicting y
+
+Cost Function:
+	lambda - regularization parameter 

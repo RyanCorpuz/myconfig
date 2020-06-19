@@ -1,0 +1,102 @@
+= Week 1 =
+
+WEEK 1
+
+	INTRODUCTION
+	DATE: MON 04/27/2020
+
+		Learning state of the art and implement these algorithms.
+		Make sure to do the exercise
+
+		Machine Learning
+			- Grew out of work in AI
+			- New capability for computers
+		
+			Examples:
+				- Database mining
+					Large datasets from growth of automation/web.
+					E.g., Web click data, medical records, biology, engineering
+				- Applications can't program by hand.
+					E.g., Autonomous helicopter, handwriting recognition, most of Natural Language Processing (NLP), Computer Vision
+				- Self-customizing programs
+					E.g., Amazon, Netflix product recommendations
+				- Understanding human learning (brain, real AI)
+		
+		What is Machine Learning?
+			- Arthur Samuel (1959). Machine Learning: Field of study that gives computers the ability to learn without being explicitly programmed
+			- Tom Mitchell (1998) Well-posed Learning Problem: A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E
+			
+			Example: playing checkers
+				E = the experience of playing many games of checkers
+				T = the task of playing checkers
+				P = The probability that the program will win the next game
+
+			Q: Supposed your email program watches which emails you do or do not mark as spam, and based on that learns how to better filter spam. What is the task T in this setting?
+				x	Classifying emails as spam or not spam ***CORRECT*** *T
+				o	Watching you label emails as spam or not spam *E
+				o	The number (or fraction) of emails correctly classified as spam/not spam *P
+				o	None of the above- this is not a machine learning problem.
+			
+			Machine learning Algorithms:
+				- Supervised learning
+				- Unsupervised learning
+
+				Others: Reinforcement learning, recommender systems
+
+			Also talk about: Practical advice for applying learning algorithms
+		
+		Supervised Learning
+			"Right answers" given
+			
+			Regression Problem:
+				Predict continuous valued output(price)
+
+			Classification Problem:
+				Discrete valued output
+
+			Q: You're running a company, and you want to develop learning algorithms to address each of two problems. Problem 1: You have a large inventory of identical items. You want to predict how many if these items will sell over the next 3 months. Problem 2: You'd like software to examine individual customer accounts, and for each account decide if it has been hacked/compromised. Should you treat these as classification or as regression problems?
+					o	Treat both as classification problems.
+					o	Treat problem 1 as a classification problem problem 2 as a regression problem
+					x	Treat problem 1 as a regression problem, problem 2 as a classification problem ***CORRECT***
+					o	Treat both as regression problems
+
+		Unsupervised Learning
+			-or- Clustering
+			Application Examples:
+				- Organize computing clusters
+				- Social network analysis
+				- Market segmentation
+				- Astronomical data analysis
+
+			Cocktail Party Problem
+
+			Q: Of the following examples, which would you address using an unsupervised learning algorithm?
+				o	Given email labeled as spam/not spam, learn a spam filter.
+				x	Give a set of news articles found on the web. group them into sets of articles about the same stories.
+				x	Given a database of customer data, automaticalled discover market segments and group customers into different market segments.
+				o	Given a dataset of patients diagnosed as either having diabetes or not, learn to classify new patients as having diabetes or not.
+				**CORRECT**
+
+	MODEL AND COST FUNCTION
+	DATE: WED 04/29/2020
+
+
+	LINEAR ALGEBRA REVIEW
+	DATE: FRI 05/01/2020
+
+		Only add matrices of the same dimensions resulting a matrix with same dimension	
+
+		m x n matrix X m x o matrix = m x o matrix
+
+		"Commutative"	->	A x B = B x A
+		Matrix multiplication is NOT commutative 	*Exception: If B is Identity matrix I
+
+		"Associative"	-> A x (B x C) = (A x B) x C
+		Matrix multiplication IS associative
+	
+	MULTIPLE FEATURES
+	DATE: FRI 05/08/2020
+
+		 eye(A) -> creates identity matrix of size A x A	
+        :qa
+        :qa

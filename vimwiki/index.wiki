@@ -4,6 +4,12 @@
 
 	* [[Tasks|List of Tasks]]
 
+== COURSES ==
+
+	* [[Machine Learning]] - Stanford University (Coursera)
+	* [[Science of Well Being]] - Yale University (Coursera)
+	* [[Learning How to Learn]] - McMaster University & University of California San Diego (Coursera)
+
 == PROJECTS ==
 
 	* [[Project Ideas]]
