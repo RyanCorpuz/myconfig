@@ -1,0 +1,16 @@
+= Week 5 =
+
+Neural Networks: Learning
+	
+Pick a network architecture (connectivity pattern between neurons)
+	- No. of input units: Dimension of features x^(i)
+	- No. outl\put units: Number of classes
+	- Reasonable default: 1 hidden layer, or if > 1 hidden layer, have same no. of hidden units in every layer (usually the more the better, but more computationally expensive)
+
+Training a Neural Network
+1. Randomly initialize weights
+2. Implement forward propagation to get h for any x
+3. Implement code to compute cost function J
+4. Implement backprop to compute partial derivatives
+5. Use gradient checking to compare dJ computed using backpropagtion vs using numerical estimate of gradient of J
+6. Use gradient descent or advanced optimization method with backpropagation to try to minimize J as a function of theta
