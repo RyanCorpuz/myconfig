@@ -1,0 +1,13 @@
+= Week 6 =
+DATE: TUE 06/30/2020
+
+== Evaluating a Learning Algorithm ==
+You find that your hypothesis makes large errors. What should you try next?
+	- Get more training examples
+	- Try smaller sets of features
+	- Try adding polynomial features
+	- Try decreasing lambda
+	- Try increasing lambda
+
+Evaluating Your Hypothesis
+

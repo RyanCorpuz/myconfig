@@ -2,26 +2,52 @@
 DATE: FRI 06/26/2020
 
 Homework:	Strategies that you can use intentionally to overcome your biases
-	Set of Strategies #1 - Getting over getting used to stuff (Hedonic Adaptation)
-		- Don't invest in stuff in the first place, instead invest in experiences
-			- We don't adapt to experiences, experiences can make us happier than stuff
-			- Experiences are better than stuff for other reasons too
-		- Savoring - The act of stepping outside of an experience to review and appreciate it
-			- Activities that enhance of savoring:
-				- I talked to another person about how good I felt
-				- I looked for other people to share it with
-				- I thought about what a lucky person I am
-				- I thought about sharing this later with others
-				- I showed physical expressions of energy
-				- I laughed or giggled
-				- I told myself how proud I was
-				- I thought only about the present, was absorbed
-			- Activities that hurt savoring:
-				- I focused on the future, when it was over
-				- I reminded myself it would be over soon
-				- I told myself it wasn't as good as I hoped
-				- I reminded myself that nothing lasts forever
-				- I thought how it would never be this good again
-				- I thought about ways it could better
-				- I told myself I didn't deserve this good thing
-		- Negative Visualization
+
+== Set of Strategies #1 - Getting over getting used to stuff (Hedonic Adaptation) ==
+	- Don't invest in stuff in the first place, instead invest in experiences
+		- We don't adapt to experiences, experiences can make us happier than stuff
+		- Experiences are better than stuff for other reasons too
+	- Savoring - The act of stepping outside of an experience to review and appreciate it
+		- Activities that enhance of savoring:
+			- I talked to another person about how good I felt
+			- I looked for other people to share it with
+			- I thought about what a lucky person I am
+			- I thought about sharing this later with others
+			- I showed physical expressions of energy
+			- I laughed or giggled
+			- I told myself how proud I was
+			- I thought only about the present, was absorbed
+		- Activities that hurt savoring:
+			- I focused on the future, when it was over
+			- I reminded myself it would be over soon
+			- I told myself it wasn't as good as I hoped
+			- I reminded myself that nothing lasts forever
+			- I thought how it would never be this good again
+			- I thought about ways it could better
+			- I told myself I didn't deserve this good thing
+	- Negative Visualization
+	- Make This Day Your Last
+		- What if tomorrow you are gonna lose something you love
+		- Think about time limits of current happy circumstances
+		- Thinking about losing something is the clearest way to pop out of hedonic adaptation by putting attention on what it's like not to have that and the good things start popping up
+	- Gratitude
+		- The quality of being thankful and a tendency to show appreciation for what one has
+		- Gratitude Condition: There are many things in our lives, both large and small, that we might be grateful about. Think back over the past week and write down on the lines below up to five things in your life that you are grateful or thankful for
+		- Gratitude Visit: In the next week, write a letter of gratitude to someone who has helped you or has been especially kind to you but has never properly been thanked. Then deliver that letter in person to the person in question
+
+== Set of Strategies #2 - Reset Your Reference Points ==
+	-> Reference Point = A salient (but ofter irrelevant) standard against which subsequent information is compared
+		- Affect our happiness judgements all the time (even if we don't realize it)
+	 
+	- Concretely Re-Experience
+		- Re-experience the stuff before you got the good thing
+	- Concretely Observe
+		- See what the reference point is really like
+	- Avoid Social Comparisons
+		- The Stop Technique - Catch yourself comparing yourself to others and say stop outloud
+		- Practice gratitude
+	- Interrupt Your Consumption
+		- Split awesome things in life
+		- For bad things, you want to hedonically adapt to them quickly (don't break then up)
+	- Increase Your Variety
+		- Breaking adaption increasing happiness (same with time, take bigger breaks)
