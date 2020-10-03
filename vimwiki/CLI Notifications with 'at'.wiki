@@ -1,6 +1,0 @@
-= CLI Notifications with 'at' =
-
-echo 'notify-send "[message]"' | at 4:00PM
-
-... | at now + 3 minutes
-... | at 1pm tomorrow

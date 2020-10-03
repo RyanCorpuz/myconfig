@@ -1,7 +1,0 @@
-= Learning How to Learn by McMaster University & University of California San Diego (Coursera) =
-- Powerful mental tools to help you master touch subjects
-
-* [[Week 1 - What is Learning]]
-* [[Week 2 - Chunking]]
-* [[Week 3 - Procrastination and Memory]]
-* [[Week 4 - Renaissance Learning and Unlocking Your Potential]]

@@ -1,5 +1,0 @@
-= Notifications with 'at' =
-
-	$ echo 'notify-send "[message]"' | at 4:30pm
-								... | at now + 5 minutes
-								... | at 1pm tomorrow

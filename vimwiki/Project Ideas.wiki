@@ -1,9 +1,0 @@
-= PROJEC IDEAS =
-
-	* [X] Git scripts
-	* [ ] [[Personal Website]]
-	* [ ] Web todo/advanced timer (task manager)
-	* [ ] Weather ML
-	* [ ] Hockey Stats ML
-	* [ ] COVID-19 ML
-	* [ ] Add blog to website

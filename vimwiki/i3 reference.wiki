@@ -1,3 +1,0 @@
-= i3 Reference =
-
-	https://i3wm.org/docs/refcard.html

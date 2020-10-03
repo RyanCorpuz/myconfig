@@ -1,8 +1,0 @@
-= Week 9 - Anomaly Detection & Recommender Systems =
-DATE:  TUE 07/21/2020
-
-== Anomaly Detection ==
-Use where very small number of positive examples
-
-== Recommender Systems ==
- 
