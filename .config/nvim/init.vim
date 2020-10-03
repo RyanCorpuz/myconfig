@@ -6,6 +6,9 @@ call plug#begin('~/.config/nvim/plugged')
 	Plug 'itchyny/lightline.vim'
 	Plug 'joshdick/onedark.vim'
 	Plug 'vimwiki/vimwiki'
+	Plug 'posva/vim-vue'
+	Plug 'mattn/emmet-vim'
+	Plug 'prettier/vim-prettier'
 call plug#end()
 
 autocmd vimenter * NERDTree

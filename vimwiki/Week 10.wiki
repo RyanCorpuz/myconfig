@@ -1,0 +1,15 @@
+= WEEK 10 - Large Scale Machine Learning =
+DATE: 08/03/2020
+
+Learning With Large Datasets
+	Plot learning curves for 1000 and adjust accordingly
+
+Stochastic Gradient Descent
+	
+Mini-Batch Gradient Descent
+
+Stochastic Gradient Descent Convergence
+		 
+Online Learning
+
+Map Reduce

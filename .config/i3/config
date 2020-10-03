@@ -35,6 +35,8 @@ bindsym $mod+Return exec i3-sensible-terminal
 # kill focused window
 bindsym $mod+Shift+q kill
 
+# goes to previous workspace
+bindsym $mod+Tab workspace back_and_forth
 
 # start dmenu (a program launcher)
 
@@ -215,7 +217,7 @@ bar {
 	}
 }
 
-bindsym $mod+shift+x exec i3lock --color=000000 -i ~/Pictures/Wallpaper/wallpaper.png
+bindsym $mod+shift+x exec i3lock --color=000000 -e -f -t -i ~/Pictures/Wallpapers/wallpaper.png
 
 # Screen brightness controls
 bindsym XF86MonBrightnessUp exec xbacklight -inc 15 # increase screen brightness
@@ -231,6 +233,6 @@ bindsym XF86AudioMute exec --no-startup-id amixer -D pulse set Master 1+ toggle 
 exec --no-startup-id i3-msg 'workspace $ws2; exec firefox'
 #exec gnome-terminal
 exec --no-startup-id i3-msg 'workspace $ws1; exec gnome-terminal'
-exec_always feh --bg-scale /home/ryan/Pictures/Wallpaper/wallpaper.jpg
+exec_always feh --bg-fill /home/ryan/Pictures/Wallpapers/wallpaper.png
 #exec --no-startup-id i3-msg 'workspace 1:Web; exec /usr/bin/firefox'
 new_window pixel 1

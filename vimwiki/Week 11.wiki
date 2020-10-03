@@ -1,0 +1,4 @@
+= WEEK 11 - Photo OCR =
+DATE: TUE 08/11/2020
+
+Problem Description and Pipeline

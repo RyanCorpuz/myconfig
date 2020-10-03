@@ -1,0 +1,3 @@
+07-24-2020
+	Personal Website
+		- (Home Page) Buttons put into rows and aline (flex container of buttons)

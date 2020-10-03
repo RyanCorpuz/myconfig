@@ -1,6 +1,9 @@
-= PROJECT IDEAS =
+= PROJEC IDEAS =
 
 	* [X] Git scripts
 	* [ ] [[Personal Website]]
-	* [ ] Local ToDo list in machine, write in C++
+	* [ ] Web todo/advanced timer (task manager)
+	* [ ] Weather ML
+	* [ ] Hockey Stats ML
+	* [ ] COVID-19 ML
 	* [ ] Add blog to website

@@ -62,7 +62,8 @@ mkcd () {
 }
 
 
-mkcd "$local"
+
+# mkcd "$local"
 touch README.rst
 
 ### Creation of README.rst

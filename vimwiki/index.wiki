@@ -2,7 +2,8 @@
 
 == GENERAL ==
 
-	* [[Tasks|List of Tasks]]
+	[[Coding TODOs]]
+	[[How]]
 
 == COURSES ==
 
@@ -19,7 +20,12 @@
 	* [[Book Notes]]
 	* [[Fitness]]
 	* [[Tips and Tricks]]
+	* [[Funny Shit]]
+	* [[Help]]
 
 == LISTS ==
 
 	* [[Books to Read]]
+
+
+
