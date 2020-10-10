@@ -84,20 +84,20 @@ mkcd () {
 }
 
 ### Create Parent Directory
-cd $proj_path
-num_proj=$(ls -F | grep / | wc -l)
-delta=$(( $sigdig - ${#num_proj} ))
-string=""
-zer="0"
 
-if [ $delta -gt 0 ]; then
-	for i in {1..$delta}; do string="${string}${zer}"; done
-fi
-num_str="${string}${num_proj}"
-dirname="${num_str}_${local}"
+## cd $proj_path
+## num_proj=$(ls -F | grep / | wc -l)
+## delta=$(( $sigdig - ${#num_proj} ))
+## string=""
+## zer="0"
+
+## if [ $delta -gt 0 ]; then
+##	for i in {1..$delta}; do string="${string}${zer}"; done
+## fi
+## num_str="${string}${num_proj}"
+## dirname="${num_str}_${local}"
+
+dirname=${local}
 mkcd "$dirname"
 
-notes_str="NAME:\t\t${local}\nPROJECT#:\t${num_str}\nDATE:\t\t${cdate}\n\nOVERVIEW:\n"
-touch notes
-echo "$notes_str" >> notes
 rungit
