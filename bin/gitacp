@@ -14,7 +14,8 @@
 
 package=gitacp
 
-if [ -z $1 ]; then
+if [ -z $1 ]
+then
 	echo "$package: missing operand"
 	exit 1
 fi
